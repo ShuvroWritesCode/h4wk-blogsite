@@ -7,7 +7,7 @@ order: 4
 ## ~/H4wk_
 ### **Iftekharul Haque Shuvro**  
 Cybersecurity Professional | Jr. Pentesterm | Full-stack Developer | Technical Writer  
-[LinkedIn](https://www.linkedin.com/in/ishuvro) | [Email](shuvrohawk@gmail.com) | +88 01886-829707  
+[LinkedIn](https://www.linkedin.com/in/ishuvro) | shuvrohawk@gmail.com | +88 01886-829707  
 
 I am a cybersecurity professional with expertise in threat analysis, incident response, and SOC automation. I specialize in proactive threat hunting and malware detection using tools like Wazuh, Splunk, and Wireshark, delivering effective security solutions.
 
