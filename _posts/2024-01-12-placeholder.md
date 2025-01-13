@@ -18,4 +18,3 @@ console
 ```
 ### Heading 3
 
-Peace out!
