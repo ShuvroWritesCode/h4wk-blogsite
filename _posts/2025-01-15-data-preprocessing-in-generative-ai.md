@@ -3,8 +3,8 @@ layout: post
 title: Data Preprocessing in Generative AI
 dates: 15-01-2025
 categories: [Generative AI]
-tag: [Generative AI, Data Preprocessing, Machine Learning, Natural Language Processing, Text Cleaning, NLP, NLPTechniques]
-description: Systematically clean and transform raw text data for a Generative AI workflow using an IMDB movie reviews dataset. 
+tag: [Generative AI, Data Preprocessing, Machine Learning, Natural Language Processing, Text Cleaning, NLP]
+description:  
 image:
     path: /assets/img/headers/post2.webp
     lqip: data:image/webp;base64,UklGRlwAAABXRUJQVlA4IFAAAADQAwCdASoUAAoAPzmEuVOvKKWisAgB4CcJZQDE2CGm8RQP7wy/TgAA/fz7pEhCBIrRiuASnz3RIfC/qoRk5vwgyTQu+fs6KsU0Emvcq/WgAA==

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Secure the AWS root user
+title: Secure the AWS Root User
 dates: 14-01-2025
 categories: [AWS Cloud Security]
 tag: [root, admin privileges, AWS, cloud security, administrator, create AWS admin, secure root]
