@@ -12,6 +12,13 @@ Cybersecurity Professional | Jr. Pentesterm | Full-stack Developer | Technical W
 I am a cybersecurity professional with expertise in threat analysis, incident response, and SOC automation. I specialize in proactive threat hunting and malware detection using tools like Wazuh, Splunk, and Wireshark, delivering effective security solutions.
 
 ---
+## Resume
+
+<embed src="/assets/pdf/Dec-2024 - Resume-Iftekharul Haque.pdf" type="application/pdf" width="100%" height="600px" />
+
+[Download Resume](https://h4wk.xyz/assets/pdf/Dec-2024 - Resume-Iftekharul Haque.pdf)
+
+---
 
 ## Professional Experience
 
