@@ -4,23 +4,21 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## ~/H4wk_
-### **Iftekharul Haque Shuvro**  
-Cybersecurity Professional | Jr. Pentesterm | Full-stack Developer | Technical Writer  
-[LinkedIn](https://www.linkedin.com/in/ishuvro) | shuvrohawk@gmail.com | +88 01886-829707  
+## **~/H4wk_**
+### **Iftekharul Haque Shuvro**
+---
+<mark> Security Analyst | Jr. Penetration Tester | Full-stack Developer | Generative AI </mark>
+
+[LinkedIn](https://www.linkedin.com/in/ishuvro) | [Email](mailto:shuvrohawk@gmail.com) | +88 01886-829707  
 
 I am a cybersecurity professional with expertise in threat analysis, incident response, and SOC automation. I specialize in proactive threat hunting and malware detection using tools like Wazuh, Splunk, and Wireshark, delivering effective security solutions.
 
----
-## Resume
-
+## **Resume**
 <embed src="/assets/pdf/Dec-2024 - Resume-Iftekharul Haque.pdf" type="application/pdf" width="100%" height="600px" />
 
 [Download Resume](https://h4wk.xyz/assets/pdf/Dec-2024 - Resume-Iftekharul Haque.pdf)
 
----
-
-## Professional Experience
+## **Professional Experience**
 
 ### Associate Security Analyst
 **Cybertech Defense** | Remote | June 2024 – Present  
@@ -40,16 +38,10 @@ I am a cybersecurity professional with expertise in threat analysis, incident re
 ---
 
 ## **Education**  
-**B.Sc. in Software Engineering**  
+*B.Sc. in Software Engineering*, Dept. of Computer Science & Technology.
+
 **Islamic University of Technology (IUT)** | June 2021 – July 2025  
 
----
-
-## **Technical Skills**  
-- **Cybersecurity**: Wazuh, Splunk, Wireshark  
-- **Programming**: Python, JavaScript, Bash  
-- **Machine Learning**: EMBER dataset, Jupyter Notebook  
-
----
-
 I aim to contribute to cybersecurity and software engineering with innovative, effective solutions. Let’s connect!
+
+<mark>Happy Hacking!</mark>
